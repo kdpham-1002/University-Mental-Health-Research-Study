@@ -19,7 +19,7 @@ conda env create -f environment.yml
 
 <!-- Clone the repository: -->
 ```bash
-git clone [https://github.com/your-username/Finance-Hiring-Request.git](https://github.com/kdpham-01002/Students-Mental-Health-Research-Study.git)
+git clone https://github.com/kdpham-01002/University-Mental-Health-Research-Study.git
 ```
 
 ---
