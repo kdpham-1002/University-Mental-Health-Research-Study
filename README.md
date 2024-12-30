@@ -1,9 +1,23 @@
 # Students' Mental Health Analysis
 
-## Overview
-This project investigates the mental health of international students at a Japanese university, exploring the impact of social connectedness, acculturative stress, and length of stay on depression levels. Using statistical analysis and machine learning models, the study provides actionable insights and recommendations to improve student well-being.
+## Table of Contents
+1. [Overview](#overview)
+2. [Setup](#setup)
+3. [Key Questions](#key-questions)
+4. [Methodology](#methodology)
+  - [Data](#data)
+  - [Tools and Techniques](#tools-and-techniques)
+5. [Findings](#findings)
+  - [Social Connectedness](#social-connectedness)
+  - [Acculturative Stress](#acculturative-stress)
+  - [Length of Stay](#length-of-stay)
+  - [Machine Learning Performance](#machine-learning-performance)
+6. [Recommendations](#recommendations)
 
----
+## Overview
+YOU CAN CHECK OUT MY [PROJECT REPORT](https://github.com/kdpham-01002/University-Mental-Health-Research-Study/blob/main/reports/students_analysis.pdf) FIRST!
+
+This project investigates the mental health of international students at a Japanese university, exploring the impact of social connectedness, acculturative stress, and length of stay on depression levels. Using statistical analysis and machine learning models, the study provides actionable insights and recommendations to improve student well-being.
 
 ## Setup
 Install required libraries:
@@ -22,14 +36,11 @@ conda env create -f environment.yml
 git clone https://github.com/kdpham-01002/University-Mental-Health-Research-Study.git
 ```
 
----
-
 ## Key Questions
 1. How do social connectedness and acculturative stress influence depression scores among international students?
 2. Does length of stay moderate the effects of stress and connectedness on depression?
 3. Can machine learning models accurately predict depression scores and identify high-risk students?
 
----
 
 ## Methodology
 
@@ -55,7 +66,6 @@ git clone https://github.com/kdpham-01002/University-Mental-Health-Research-Stud
   - Random Forest Regression to predict depression scores.
   - Random Forest Classification to identify high-risk students.
 
----
 
 ## Findings
 1. **Social Connectedness**:
@@ -78,7 +88,6 @@ git clone https://github.com/kdpham-01002/University-Mental-Health-Research-Stud
      - Precision (Class 0 - Not at Risk): 0.77.
      - Recall (Class 1 - High Risk): 0.45.
 
----
 
 ## Recommendations
 1. **Peer Support Programs**:
@@ -87,5 +96,3 @@ git clone https://github.com/kdpham-01002/University-Mental-Health-Research-Stud
    - Focus on early-stage students to alleviate acculturative stress.
 3. **Early Warning Systems**:
    - Use machine learning models to identify high-risk students and prioritize interventions.
-
----
