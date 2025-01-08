@@ -1,5 +1,7 @@
 # Students' Mental Health Analysis
 
+YOU CAN CHECK OUT MY [PROJECT REPORT](https://github.com/khoapham1002/University-Mental-Health-Research-Study/blob/main/notebooks/students_analysis.ipynb) FIRST!
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Setup](#setup)
@@ -15,8 +17,6 @@
 6. [Recommendations](#recommendations)
 
 ## Overview
-YOU CAN CHECK OUT MY [PROJECT REPORT](https://github.com/kdpham-1002/University-Mental-Health-Research-Study/blob/main/notebooks/students_analysis.ipynb) FIRST!
-
 This project investigates the mental health of international students at a university, exploring the impact of social connectedness, acculturative stress, and length of stay on depression levels. Using statistical analysis and machine learning models, the study provides actionable insights and recommendations to improve student well-being.
 
 ## Setup
